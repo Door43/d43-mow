@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mow:home|Door43 (mow)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mow|d43-mow repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mow/archive/master.zip|d43-mow.zip]]
+
+**Recent Changes**
+{{changes>ns = mow}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mow|Ethnologue data]]
+
